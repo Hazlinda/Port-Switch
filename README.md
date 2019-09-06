@@ -46,9 +46,9 @@
 
 
 
-            // This is the base transaction object that will be used
-            // in the environment to initiate new transactions and 
-            // capture transactions at DUT interface
+            /* This is the base transaction object that will be used
+             in the environment to initiate new transactions and 
+             capture transactions at DUT interface*/
             class switch_item;
               rand bit [7:0]  	addr;
               rand bit [15:0] 	data;
