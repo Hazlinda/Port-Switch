@@ -305,3 +305,4 @@
                 // in the background, we need to call $finish explicitly
                 #50 $finish;
               end
+          endmodule
